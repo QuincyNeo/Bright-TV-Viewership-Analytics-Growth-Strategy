@@ -8,6 +8,9 @@ engagement gaps to develop effective growth and retention strategies.
 The aim of this project is to analyze 10,000 viewership records to provide the CVM team with actionable insights that will drive audience growth and optimize content scheduling.
 # Objectives. 
 > Analyze user and usage trends across different demographics and regions.
+
 > Identify the primary factors and content types that influence platform consumption.
+
 > Develop content recommendations to boost viewership on low-consumption days.
+
 > Propose strategic initiatives to grow the total user base.
