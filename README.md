@@ -16,3 +16,13 @@ In order to achieve the aim, the following objectives must be met:
 > Develop content recommendations to boost viewership on low-consumption days.
 
 > Propose strategic initiatives to grow the total user base.
+# Summary of Results
+> Top Performing Segments: Young Adults and Adults are the most engaged, contributing 4,118 and 3,387 minutes of watch time respectively. Black subscribers constitute the largest engagement segment at 43%
+
+> Regional Strongholds: Gauteng is the leading province for engagement, significantly outperforming other regions.
+
+> Consumption Patterns: Viewership peaks during the weekend, specifically on Fridays (1,675 viewers) and Saturdays (1,633 viewers). A notable "Monday Dip" exists where viewership falls to its lowest point of 957.
+
+> Key Drivers: Content consumption is heavily driven by major sporting events, with Supersport Live Events and the ICC Cricket World Cup 2011 attracting the highest number of viewers.
+
+> Growth Opportunities: Strategic focus should be placed on scheduling high-performing channels like Channel O or Africa Magic on Mondays to bridge the engagement gap. Additionally, targeted marketing in underrepresented regions like the Northern Cape and Free State presents a clear path for base expansion.
